@@ -1,0 +1,16 @@
+.task {
+    cursor: pointer;
+    color: #0088cc;
+  }
+  .task:hover {
+    text-decoration: underline;
+  }
+  #deleteTaskButton{
+    margin-left: 20%;
+  }
+.background1{
+  background-color: cyan;
+}
+#back2{
+  background-color: green;
+}
